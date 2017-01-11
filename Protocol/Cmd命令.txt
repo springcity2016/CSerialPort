@@ -1,0 +1,15 @@
+5A A5 06 7F 03 00 00 00 85	//IDLE 进入DFPT模式		// 5A A5 0A 01 F0 00 FB 00 AB AB	
+5A A5 0A F0 01 00 FB 00 D7 55				        // 5A A5 0A 01 F0 01 FB 00 9C AB				 
+5A A5 0A F0 01 00 FB 02 F7 17	//Sensor (RequestSensorData)	// 5A A5 19 01 F0 01 C9 6E 41 31 31 CA 00 00 00 00 CC 20 20 30 30 FB 04 66 9C
+								// 5A A5 19 01 F0 00 C9 6E 41 31 31 CA 00 00 00 00 CC 20 20 30 30 FB 04 96 AD
+//5A A5   	  19        01		     F0        01 	C9 6E 41 31 31 CA 00 00 00 00 CC 20 20 30 30 FB 04 66 9C
+//5A A5 	  19        01		     F0        00 	C9 6E 41 31 31 CA 00 00 00 00 CC 20 20 30 30 FB 04 96 AD
+//Header1/2   PackageSize SourceAddress Destination AckValue
+5A A5 0A F0 01 00 FB 04 97 D1	//Version (RequestVersionData)
+5A A5 0A F0 01 00 FB 06 B7 93	//Sensor + Version (RequestSensorData + RequestVersionData)
+				// 5A A5 80 01 F0 01 01 63 24 ......
+
+
+
+WaterLevel
+WaterTemp

@@ -1,0 +1,77 @@
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "68,138,592,697"
+
+[AB_Cache_{1FD27837-B5AB-4DC7-AB53-C399D3E5793E}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8d5cde671788a88adf4233d742ef76a2"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_"
+Cache_GenFile[1][Path] Line0002 = "V1_0.aliases"
+Cache_GenFile[2][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.ini"
+Cache_GenFile[3][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{914A59E6-84D8-46AB-BFA5-2294D3427F8F}"
+Cache_GenGUID[1][String] = "{E257DC2E-D5DE-4793-ADC4-2BFD82802A7E}"
+Cache_GenGUID[2][String] = "{62CAB6C1-8CDC-4454-B2FB-97EE976D2678}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App"
+
+[AB_Cache_{CE1A7D1A-0F19-4DF6-95A9-278B8A941D9D}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8d5cde671788a88adf4233d742ef76a2"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_"
+Cache_GenFile[1][Path] Line0002 = "V1_0.aliases"
+Cache_GenFile[2][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.ini"
+Cache_GenFile[3][Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/App_V1_0.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{914A59E6-84D8-46AB-BFA5-2294D3427F8F}"
+Cache_GenGUID[1][String] = "{E257DC2E-D5DE-4793-ADC4-2BFD82802A7E}"
+Cache_GenGUID[2][String] = "{62CAB6C1-8CDC-4454-B2FB-97EE976D2678}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App"
+
+[AB_Cache_{4F37BB93-0891-4742-A0C2-5B19B2D2DB5F}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "bbb13953d7933ae739b5b20ea7e98db0"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[0][Path] Line0002 = "/App_V1_1.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[1][Path] Line0002 = "/App_V1_1.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[2][Path] Line0002 = "/App_V1_1.ini"
+Cache_GenFile[3][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[3][Path] Line0002 = "/App_V1_1.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{E3131A81-C91E-41A3-97A2-DC9013BCDC96}"
+Cache_GenGUID[1][String] = "{6521D82D-753B-47E4-823E-4E6C73B26787}"
+Cache_GenGUID[2][String] = "{7ECD87DC-1083-423C-9F84-F9AE207CB7D7}"
+Cache_GenGUID[3][String] = "{98640553-F175-43B0-AB7A-7DA90A361954}"
+Cache_OutputDir[Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+
+[AB_Cache_{C5FD0AC4-BC42-4B8F-9D56-AC4206D4F979}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "bbb13953d7933ae739b5b20ea7e98db0"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[0][Path] Line0002 = "/App_V1_1.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[1][Path] Line0002 = "/App_V1_1.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[2][Path] Line0002 = "/App_V1_1.ini"
+Cache_GenFile[3][Path] Line0001 = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+Cache_GenFile[3][Path] Line0002 = "/App_V1_1.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{E3131A81-C91E-41A3-97A2-DC9013BCDC96}"
+Cache_GenGUID[1][String] = "{6521D82D-753B-47E4-823E-4E6C73B26787}"
+Cache_GenGUID[2][String] = "{7ECD87DC-1083-423C-9F84-F9AE207CB7D7}"
+Cache_GenGUID[3][String] = "{98640553-F175-43B0-AB7A-7DA90A361954}"
+Cache_OutputDir[Path] = "/D/2017_PJT/AutoTest_Labview/PJT_AT/App/V1_1"
+
